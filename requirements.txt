@@ -1,0 +1,11 @@
+torch 
+torchvision
+numpy
+scikit-image
+ffmpeg
+svgwrite
+svgpathtools
+cssutils
+numba
+torch-tools
+visdom
