@@ -9,3 +9,5 @@ cssutils
 numba
 torch-tools
 visdom
+pygame
+
